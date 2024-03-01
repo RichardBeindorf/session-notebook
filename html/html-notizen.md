@@ -22,3 +22,8 @@ Unsemantische, nicht inhaltbezogene Tags:
 <div>
 <embed>
 <section> dient der Definition jeglicher Bereiche, z.B. einen größeren Bereich in dem ein Artikel, mit Videos etc besteht.
+
+
+Was war rückblickend das Schwierigste?
+
+Ich denke an Inputs und die ganzen Varianten. Jup.
